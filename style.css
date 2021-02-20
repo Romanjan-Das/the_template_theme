@@ -2,5 +2,10 @@
     Author: Romanjan_Das
 */
 body{
-    background-color: rgb(201, 255, 188);
+    background-color: lightgrey;
+}
+header{
+    background-color: whitesmoke;
+    width: 100%;
+    height: 100px;
 }
